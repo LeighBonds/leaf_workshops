@@ -64,7 +64,7 @@
 
 
             <p><persName type="fictional">Mrs Dalloway</persName> said she would buy the gloves herself.</p>
-            <p>Big Ben was striking as she stepped out into the street. It was eleven o'clock and
+            <p>Big Ben was striking as she stepped out into the street. It was <time cert="high" evidence="internal" instant="unknown" precision="high" unit="cm" when-iso="11:00" xml:space="default">eleven o'clock</time> and
                the unused hour was fresh as if issued to children on a beach. But there was
                something solemn in the deliberate swing of the repeated strokes; something stirring
                in the murmur of wheels and the shuffle of footsteps.</p>
@@ -72,14 +72,14 @@
                said about us than that we walk the streets of Westminster. Big Ben too is nothing
                but steel rods consumed by rust were it not for the care of H. M.'s Office of Works.
                Only for Mrs Dalloway the moment was complete; for <persName>Mrs Dalloway</persName> June was fresh. A
-               happy childhood—and it was not to his daughters only that Justin Parry had seemed a
+               happy childhood—and it was not to his daughters only that <persName cert="high">Justin Parry</persName> had seemed a
                fine fellow (weak of course on the Bench); flowers at evening, smoke rising; the caw
                of rooks falling from ever so high, down down through the October air—there is
                nothing to take the place of childhood. A leaf of mint brings it back; or a cup with
                a blue ring.</p>
             <p>Poor little wretches, she sighed, and pressed forward. Oh, right under the horses'
                noses, you little demon! and there she was left on the kerb stretching her hand out,
-               while Jimmy Dawes grinned on the further side.</p>
+               while <persName type="fictional">Jimmy Dawes</persName> grinned on the further side.</p>
             <p>A charming woman, poised, eager, strangely white-haired for her pink cheeks, so Scope Purvis, C. B., saw her as he hurried to his office. She stiffened a little, waiting
                for Durtnall's van to pass. Big Ben struck the tenth; struck the eleventh stroke. The
                leaden circles dissolved in the air. Pride held her erect, inheriting, handing on,
