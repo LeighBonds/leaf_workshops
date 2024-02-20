@@ -392,7 +392,7 @@
 	"id": "https://raw.githubusercontent.com/LeighBonds/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240220164943144",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-20T21:49:43.144Z",
-	"dcterms:modified": "2024-02-20T21:49:43.144Z",
+	"dcterms:modified": "2024-02-20T21:50:50.482Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/LeighBonds",
 		"@type": [
@@ -423,7 +423,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q9439",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -500,7 +502,7 @@
             <p>She had passed through the <rs key="Admiralty Arch" ref="http://www.wikidata.org/entity/Q359256">Admiralty Arch</rs> and saw at the end of the empty road with
                its thin trees <rs>Victoria's white mound</rs>, Victoria's billowing motherliness, amplitude
                and homeliness, always ridiculous, yet how sublime, thought Mrs Dalloway, remembering
-                and the <persName cert="high">old lady in horn spectacles</persName> and being told by Nanny to
+                and the <persName cert="high" key="Victoria" ref="http://www.wikidata.org/entity/Q9439" type="real">old lady in horn spectacles</persName> and being told by Nanny to
                stop dead still and bow to the Queen. The flag flew above the Palace. The <persName type="both">King</persName> and
                <persName>Queen</persName> were back then. Dick had met her at lunch the other day—a thoroughly nice
                woman. It matters so much to the poor, thought Clarissa, and to the soldiers. A man
